@@ -41,10 +41,6 @@ When any hazard is detected, the system:
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## 🧠 Learning Outcomes
 
 - Hands-on experience with **embedded systems** and **real-time safety protocols**
@@ -52,12 +48,6 @@ When any hazard is detected, the system:
 - Use of interrupts, timers, and conditional logic
 - DC motor control via GPIO and relays
 - System design under performance and reliability constraints
-
----
-
-## 📸 Optional: System Diagram
-
-> If you have a block diagram or schematic, place it in the repo as `system_diagram.jpg` and link it here:
 
 ---
 
