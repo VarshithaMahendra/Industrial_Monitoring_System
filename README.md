@@ -43,4 +43,45 @@ When any hazard is detected, the system:
 
 ## 📂 Project Structure
 
+---
+
+## 🧠 Learning Outcomes
+
+- Hands-on experience with **embedded systems** and **real-time safety protocols**
+- Sensor integration and analog/digital signal handling
+- Use of interrupts, timers, and conditional logic
+- DC motor control via GPIO and relays
+- System design under performance and reliability constraints
+
+---
+
+## 📸 Optional: System Diagram
+
+> If you have a block diagram or schematic, place it in the repo as `system_diagram.jpg` and link it here:
+
+---
+
+## 📘 Documentation
+
+Please refer to `report.pdf` for:
+- Block diagrams
+- Flowcharts
+- Circuit explanations
+- Hardware photos (if available)
+- Conclusion and future scope
+
+---
+
+## 🧑‍💻 Author
+
+**Varshitha Mahendra**  
+- Electronics & Communication Engineering graduate  
+- Postgraduate in Embedded Systems Design and Development  
+- Skilled in C, C++, Python, 8051, ARM, and Linux  
+
+---
+
+> ⚠️ This project simulates an industrial safety system under controlled conditions and is not intended for deployment without rigorous testing.
+
+
 
