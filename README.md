@@ -53,7 +53,9 @@ When any hazard is detected, the system:
 
 ## 📘 Documentation
 
-Please refer to `report.pdf` for:
+Please refer to the below report for:
+
+📄 [View Full Project Report (PDF)](report.pdf)
 - Block diagrams
 - Flowcharts
 - Circuit explanations
