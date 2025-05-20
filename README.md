@@ -55,7 +55,7 @@ When any hazard is detected, the system:
 
 Please refer to the below report for:
 
-📄 [View Full Project Report (PDF)](Industrial_Monitoring_System_Report.pdf)
+📄 [View Full Project Report (PDF)](report.pdf)
 - Block diagrams
 - Flowcharts
 - Circuit explanations
